@@ -8,10 +8,6 @@ This project is a simple clock created using JavaScript and CSS. It visually dis
 - **Responsive Design**: The clock adjusts its size based on the screen size.
 - **CSS Styling**: Uses modern CSS for styling and animations.
 
-## Demo
-
-![Clock Screenshot](http://unsplash.it/1500/1000?image=881&blur=50)
-
 ## Getting Started
 
 ### Prerequisites
